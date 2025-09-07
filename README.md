@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @HoloDanger
-- 👀 I’m interested in automation, AI, gaming and music
-- 🌱 I’m currently learning how to use Python and Javascript
-- 📫 How to reach me: johnlesterlopez07@gmail.com
-- 😄 Pronouns: he/him
+# John Lester Lopez
 
-<!---
-HoloDanger/HoloDanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build calm, reliable, and humane systems in an age of digital fragmentation.
+
+---
+
+-   🌱 **Current Focus:** I'm currently undertaking a self-directed apprenticeship in the principles of Site Reliability Engineering (SRE) and Systems Thinking.
+-   🛠️ **Core Toolkit:** Linux, Docker, Python, and the philosophies of Stoicism and Deming.
+-   🔭 **Genesis Node:** Architecting a prototype "Sanctuary" mental wellness app, designed to be a tool, not a trap.
+-   📜 **The Forge:** My public log, where I'm documenting this entire journey, can be found in the `/docs` directory of this repository.
+
+📫 You can reach me at: **johnlesterlopez07@gmail.com**
